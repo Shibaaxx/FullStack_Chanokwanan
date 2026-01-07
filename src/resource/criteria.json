@@ -1,0 +1,47 @@
+{
+"teacher": {
+    "name": "นางสาวชนกวนันท์ ประสมศรี",
+    "department":"แผนกเทคโนโนยีสารสนเทศ"
+
+},
+"criteria": [
+    {
+        "id": 1,
+        "title":"การเตรียมการเรียน",
+        "score": null,
+        "pass": true,
+        "note":""
+    },
+    {
+    
+        "id": 2,
+        "title":"การกิจกรรมการเรียนรู้",
+        "score": null,
+        "pass": true,
+        "note":""
+    },
+     {
+        "id": 3,
+        "title":"วัดผลและประเมินผล",
+        "score": null,
+        "pass": true,
+        "note":""
+        },
+        {
+    
+        "id": 4,
+        "title":"การทำกิจกรรมโฮมรูม",
+        "score": null,
+        "pass": true,
+        "note":""
+    },
+    {
+    
+        "id": 5,
+        "title":"การทำกิจกรรมทำความสะอาด",
+        "score": null,
+        "pass": true,
+        "note":""
+        }
+    ]
+}
